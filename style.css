@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+    color: darkturquoise
+}
+
+#applabs {
+    width: 100%;
+    height: 800px;
+    background-color: firebrick
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: chartreuse
+}
+
+#chatbots {
+    width: 100%;
+    height: 800px;
+    background-color: coral
+}
+
+.lines {
+    height: 5px;
+    width: 80px;
+    background-color: black;
+    margin: 8px auto;
+    text-align: center;
+}
+
+img
+{
+transition:transform.2s;
+}
+
+img:hover
+{
+transform:scale(0.9);
+}
